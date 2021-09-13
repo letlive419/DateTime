@@ -1,0 +1,12 @@
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.vbprojAssemblyReference.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.frmMain.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.Resources.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.vbproj.GenerateResource.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.vbproj.CoreCompileInputs.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.exe.config
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.exe
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.xml
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.exe
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.xml
+C:\Users\Elvis\Documents\VSFIUNEW\sample-6---date-time-sample-ecruz107\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.pdb
